@@ -26,3 +26,11 @@ flowchart LR
     J --> O
     L --> P[Wealth concentration may rise]
     N --> Q[Inclusive benefits may increase]
+```
+Table 1: Three scenario simulations for 2030
+
+| Scenario | GDP gain | Income for high-income groups | Middle-income group benefits | Low-income group benefits | Wealth distribution results |
+|---|---|---|---|---|---|
+| Downside scenario | 0.5%—1.5% | High | low or negative | low or negative | Obviously more uneven |
+| Baseline scenario | 1%—3% | Relative high | Gentle | limited | The slight is more uneven |
+| Earnings scenario | 4%—7% | High | Middle and high | Medium or higher | It can be controlled or slightly improved improved |
