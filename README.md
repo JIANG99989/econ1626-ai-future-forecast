@@ -1,4 +1,12 @@
 # econ1626-ai-future-forecast
+## Article Summary: Sources, Assumptions, AI Tool Disclosures and Limitations
+
+This paper adopts the analytical framework of "task-enterprise-income group-wealth distribution". Unlike studies that only focus on GDP growth, this paper focuses on the differentiated impact of AI on different income groups. The main references include: the International Monetary Fund (IMF), the Organization for Economic Co-operation and Development (OECD), the McKinsey Global Institute, Goldman Sachs, the Stanford AI Index, and experimental studies on generative AI to improve productivity in areas such as customer service, writing, and programming.
+
+The scenario estimation in this paper is based on five assumptions: First, AI exposure is not equal to the replacement rate. Second, the adoption rate of enterprises determines whether the technology can truly enter the production process. Third, the degree of organizational restructuring affects the size of productivity gains. Fourth, asset ownership determines the distribution pattern of wealth income. Fifth, public service and training policies can change the actual level of benefits for low-income groups. 
+
+This paper has the following obvious limitations. First, there is a lack of transparency in real AI usage data at the enterprise level. Second, it is difficult to accurately measure the benefits of AI for different income groups, as it involves multiple factors such as wage changes, service prices, public service quality, and asset returns. Third, the development of AI technology capabilities is uncertain, and AI systems may advance rapidly or be constrained by reliability and security issues. Fourth, structural fractures could revolutionize all scenarios, such as major AI safety incidents, energy supply bottlenecks, regulatory fragmentation, geotechnical blockades, or technological breakthroughs close to the level of general artificial intelligence.
+
 Figure 1: The transmission mechanisms of AI affecting different income groups
 
 ```mermaid
