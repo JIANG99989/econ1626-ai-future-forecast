@@ -34,3 +34,32 @@ Table 1: Three scenario simulations for 2030
 | Downside scenario | 0.5%—1.5% | High | low or negative | low or negative | Obviously more uneven |
 | Baseline scenario | 1%—3% | Relative high | Gentle | limited | The slight is more uneven |
 | Earnings scenario | 4%—7% | High | Middle and high | Medium or higher | It can be controlled or slightly improved improved |
+<p>Figure 2: Overall economic benefits under different scenarios<br>
+GDP relative to baseline gain in 2030</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Scenario</th>
+      <th>Chart</th>
+      <th>GDP relative to baseline gain in 2030</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Downside scenario</td>
+      <td>███</td>
+      <td>0.5%—1.5%</td>
+    </tr>
+    <tr>
+      <td>Baseline scenario</td>
+      <td>█████████</td>
+      <td>1%—3%</td>
+    </tr>
+    <tr>
+      <td>Earnings scenario</td>
+      <td>██████████████████████████</td>
+      <td>4%—7%</td>
+    </tr>
+  </tbody>
+</table>
