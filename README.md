@@ -63,3 +63,53 @@ GDP relative to baseline gain in 2030</p>
     </tr>
   </tbody>
 </table>
+<p>Figure 3: Relative degree of benefit by income group</p>
+<p>Relative benefit: low = █，Medium = ███，High = █████</p>
+
+<p>Downside scenario:</p>
+<table>
+  <tr>
+    <td>High-income groups</td>
+    <td>█████</td>
+  </tr>
+  <tr>
+    <td>Middle-income group</td>
+    <td>█</td>
+  </tr>
+  <tr>
+    <td>low-income groups</td>
+    <td>█</td>
+  </tr>
+</table>
+
+<p>Baseline scenario：</p>
+<table>
+  <tr>
+    <td>High-income groups</td>
+    <td>█████</td>
+  </tr>
+  <tr>
+    <td>Middle-income group</td>
+    <td>███</td>
+  </tr>
+  <tr>
+    <td>low-income groups</td>
+    <td>██</td>
+  </tr>
+</table>
+
+<p>Earnings scenario:</p>
+<table>
+  <tr>
+    <td>High-income groups</td>
+    <td>█████</td>
+  </tr>
+  <tr>
+    <td>Middle-income group</td>
+    <td>████</td>
+  </tr>
+  <tr>
+    <td>Low-income groups</td>
+    <td>████</td>
+  </tr>
+</table>
