@@ -150,3 +150,22 @@ GDP relative to baseline gain in 2030</p>
     </tr>
   </tbody>
 </table>
+# Policy decision tree
+
+```mermaid
+flowchart TD
+    A["Has AI increased industry productivity?"]
+
+    A -->|no| B["Pilot, Assessment and Data Governance First"]
+    A -->|Yes| C["Does the income primarily go to high-income and capital owners?"]
+
+    C -->|Yes| D["Strengthening Competition Policy, Profit Sharing, and Tax Regulation"]
+    C -->|no| E["Do low- and middle-income groups receive visible benefits?"]
+
+    E -->|no| F["Expanding public AI services, SME support, and low-income training"]
+    E -->|is| G["Continue to promote proliferation and monitor risks"]
+
+    D --> H["Is there a job shock?"]
+    H -->|Yes| I["Launch of retraining, wage insurance and regional transformation funds"]
+    H -->|no| J["Focus on monitoring wealth concentration and market monopolies"]
+```
