@@ -113,3 +113,40 @@ GDP relative to baseline gain in 2030</p>
     <td>████</td>
   </tr>
 </table>
+
+<p>Table 2: Policy timeline</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>time</th>
+      <th>Policy focus</th>
+      <th>Main actions</th>
+      <th>partners</th>
+      <th>KPI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025—2026</td>
+      <td>Measurement and basic governance</td>
+      <td>Build a database of AI adoption, task exposure, and income group impact</td>
+      <td>Statistics department, labor department, tax department, research institution</td>
+      <td>enterprise AI adoption; changes in wages of different income groups; AI security incidents</td>
+    </tr>
+    <tr>
+      <td>2027—2028</td>
+      <td>Proliferation and capacity building</td>
+      <td>SME AI Adoption Vouchers; training accounts for low-income workers; Public AI Services</td>
+      <td>Schools, trade unions, enterprises, local governments, cloud service providers</td>
+      <td>post-retraining employment rate; SME productivity; Accessibility to services for low-income groups</td>
+    </tr>
+    <tr>
+      <td>2029—2030</td>
+      <td>Distribution and competition adjustment</td>
+      <td>Antitrust, data portability, profit sharing, taxation, and social insurance reform</td>
+      <td>competition regulators, financial departments, platform enterprises, and labor organizations</td>
+      <td>labor income share; wealth concentration; industrial concentration; Income liquidity</td>
+    </tr>
+  </tbody>
+</table>
