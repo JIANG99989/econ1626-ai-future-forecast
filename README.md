@@ -1,4 +1,6 @@
 # econ1626-ai-future-forecast
+
+**Author:JIANG ZI JIAN** 
 ## Article Summary: Sources, Assumptions, AI Tool Disclosures and Limitations
 
 This paper adopts the analytical framework of "task-enterprise-income group-wealth distribution". Unlike studies that only focus on GDP growth, this paper focuses on the differentiated impact of AI on different income groups. The main references include: the International Monetary Fund (IMF), the Organization for Economic Co-operation and Development (OECD), the McKinsey Global Institute, Goldman Sachs, the Stanford AI Index, and experimental studies on generative AI to improve productivity in areas such as customer service, writing, and programming.
